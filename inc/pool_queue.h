@@ -1,5 +1,5 @@
-#ifndef UTILS_H
-#define UTILS_H
+#ifndef POOLQUEUE_H
+#define POOLQUEUE_H
 
 #include <stdint.h>
 

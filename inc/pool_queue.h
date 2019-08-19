@@ -18,6 +18,7 @@ typedef struct PoolQueue {
 } PoolQueue;
 
 void initialize_pool_queue(PoolQueue *pool, int buffs, int buff_size);
+void release_pool_queue(PoolQueue *pool);
 
 #ifdef __cplusplus
 }
